@@ -88,7 +88,7 @@ OUTPUT_DIR = BASE_OUTPUT_DIR / (
 )
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-SEEDS = list(range(100, 201))
+SEEDS = list(range(100, 200))
 
 # ============================================================
 # CHRONOLOGICAL DATA SPLIT
