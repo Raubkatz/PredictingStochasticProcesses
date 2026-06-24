@@ -19,3 +19,5 @@ seaborn==0.13.2
 catboost==1.2.7
 
 scipy==1.10.1
+
+scikit-optimize==0.10.2
