@@ -14,4 +14,8 @@ tensorflow==2.10.0
 
 matplotlib==3.7.5       
 
-seaborn==0.13.2        
+seaborn==0.13.2
+
+catboost==1.2.7
+
+scipy==1.10.1
